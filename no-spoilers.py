@@ -11,7 +11,7 @@ def get_chromedriver():
     return webdriver.Chrome(executable_path='chromedrivers/chromedriver', chrome_options=options)
 
 def pro_event(event: str):
-    for e in ['ESL', 'PGL', 'Dreamhack', 'WESG', 'Faceit']:
+    for e in ['ESL', 'PGL', 'Dreamhack', 'Faceit']:
         if e in event:
             return True
     return False
