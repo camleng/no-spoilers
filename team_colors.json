@@ -1,6 +1,6 @@
 {
     "Cloud9": "blue",
-    "Liquid": "cyan",
+    "Liquid": "blue",
     "FaZe": "red",
     "NiP": "yellow",
     "G2": "grey",
@@ -29,6 +29,8 @@
     "EnVyUs": "blue",
     "Rise Nation": "red",
     "CheckSix": "grey",
-    "CLG": "cyan",
-    "Ghost": "grey"
+    "CLG": "blue",
+    "Ghost": "grey",
+    "Renegades": "red",
+    "Virtus.pro": "red"
 }
